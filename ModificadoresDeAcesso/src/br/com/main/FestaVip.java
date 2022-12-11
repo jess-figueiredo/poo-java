@@ -20,4 +20,8 @@ public class FestaVip {
 		quantidadeSalgado++;
 		System.out.format("Comeu %d Salgados", quantidadeSalgado);
 	}
+	
+	private void dancar() {
+		System.out.println("O dev Dançou.");
+	}
 }

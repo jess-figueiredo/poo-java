@@ -31,6 +31,7 @@ public class Personagem {
 		int d20 = 1 + gerador.nextInt(19); //vai de 0 a 20, porém no dado n tem 0
 		int dano = forca + d20;
 		
+		
 		return dano;
 	}
 	
