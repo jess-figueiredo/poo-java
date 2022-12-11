@@ -43,7 +43,8 @@ public class Personagem {
 	}
 
 	void defesaUnica(String alvo) {
-		System.out.format("%s se defendeu de %s", nome, alvo);
+		System.out.format("%s se defendeu de %s", 
+				nome, alvo);
 	}
 		
 }

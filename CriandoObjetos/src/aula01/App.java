@@ -9,7 +9,7 @@ public class App {
 		mago.nivel = 43;
 		mago.raca = "Humano";
 		mago.velocidade = 40;
-		mago.forca = 13;
+		mago.forca = 134;
 		
 		
 		mago.correr(mago.velocidade);	
