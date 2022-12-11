@@ -5,7 +5,7 @@ public class ContaNetflix {
 	private String resolucaoTela;
 
 
-void entrar() {
+public void entrar() {
 	buscarPreferenciasDoUsuario();
 	identificarResolucao();
 }
