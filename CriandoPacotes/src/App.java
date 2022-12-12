@@ -12,5 +12,3 @@ public class App {
 		novela1.nome = "AFeiaMaisBela";
 		
 	}
-
-}
